@@ -6,6 +6,15 @@ using namespace std;
 char str[10005];
 int tot=0;
 
+//the modification is to shorten the script to satisfy the requirement of the host
+
+void shorten(long long x,long long y){
+    int i,j;
+    int ans=0;
+    for(i=0;i<x;i++)
+        ans+=i;
+}
+
 int main(){
     int i,j;
     freopen("script.txt","r",stdin);
