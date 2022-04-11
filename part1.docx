@@ -1,0 +1,36 @@
+\documentclass{ctexart}
+\title{巡演第一部分}
+\author{莫承昊、刘亿忻、应玮褘、孔逸浩、薛金金}
+
+\begin{document}
+\maketitle
+\begin{enumerate}
+\item[PPT.] [在西南位育80年校庆活动之际，许多曾经在此就读的西位学子重返母校，或功成名就，或事业有成]
+\item[PPT.] [当然，不少老同学分隔多年后又重聚到了一起，一块儿回忆往事](BGM起)
+\item[PPT.] [学校邀请到了国际上的科技大咖——Mike博士，同时也是一位50年前的西位学子，来分享他的新的得意作品](博士和助手进场)
+\item[博士.] Hello, everyone! I’m Mike. I’m glad to come to the 80-year celebration of Southwest Weiyu Middle School.
+50 years ago, I was a student there, then I go to the university of America. After being a doctor there, I went
+back here and invent a new robot. 
+\item[助手.] 大家好，我是Mike博士的助手Wiwi，很高兴今天能来到这个舞台上。博士由于长期定居在国外，中文水平有所退化，因此今天将由我来为大家介绍机器人。(博士点点头)
+\item[助手.] 博士刚刚说，他过去在西南位育学习编程，并参加了学校特色的机器人社团。正式因为西位才让他对编程有了这样浓厚的兴趣，才成就了现在这样成功的他。
+\item[助手.] 接下来让我们进入正题，有请今天来到现场的机器人——RB28-Nicky\\
+(Nicky边拉着手风琴边进场，过了舞台中心继续走)
+\item[助手.](一把拉回来)Nicky，别走远了，观众在这边。
+(Nicky回到舞台中央，一曲拉完，此时Nicky在Wiwi左边，Wiwi在Mike左边，Nicky向大家招招手)
+\item[Nicky.] 大家好，我是Nicky，今天能来到这里，我很高兴。
+(台下观众芜湖)
+\item[助手.] 想必大家一定都对Nicky刚刚的手风琴表演十分赞叹了(Nicky鞠躬)。但他今天来到这里不仅仅因为这些。在博士的潜心研究下，机器人有了一个非常新颖的功能。他可以根据使用者自己的意愿，放映出过去的记忆，甚至可以与过去的自己对话。
+(台下观众开始骚动，博士对助手耳语，示意让观众上来体验)
+\item[助手.] 感谢大家对Nicky的喜爱(Nicky鞠躬)。有没有人想上台来体验一下新科技？
+\item[大家.]我我我我我！！！（我来我来！）
+\item[博士.](对着金金说)This lady. (金金站起)
+\item[大家.]欸？这不是著名的影视明星，薛金金吗？她也是西南位育的学生？
+\item[大家.]金金！我是你的粉丝，给我个签名吧！
+\item[大家.]金金勇敢飞，金粉永相随！
+\item[大家.]金金金金我爱你，就像老鼠爱大米！
+\item[大家.]金金今天也好美！
+\item[大家.]金金，你的下一部电影什么时候上映呀？好期待啊！
+\item[一位观众.]金金，你能讲一下你关于表演的故事吗？
+\item[薛金金.] (鞠躬)谢谢大家对我的喜爱，今天我来到西位，也是想好好回忆一下自己过去表演节目的故事。这不巧，正好有机器人在这里嘛。正是因为这样我才如此迫切地希望能体验到机器人的新功能呀。(接剧情)
+\end{enumerate}
+\end{document}
