@@ -21,3 +21,8 @@ int main(){
     }
     return 0;
 }
+
+void useless(long long x){
+    cout<<(x*2)-1<<endl;
+    a[x]+=b[x];
+}
