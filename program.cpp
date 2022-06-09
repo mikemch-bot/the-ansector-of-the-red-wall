@@ -15,6 +15,13 @@ void shorten(long long x,long long y){
         ans+=i;
 }
 
+testbr2 testbr2 
+testbr2 testbr2 
+testbr2 testbr2 
+testbr2 testbr2 
+testbr2 testbr2 
+testbr2 testbr2 
+
 int main(){
     int i,j;
     freopen("script.txt","r",stdin);
